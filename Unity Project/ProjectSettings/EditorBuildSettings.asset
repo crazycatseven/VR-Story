@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SkyDiving.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/CarAccident.unity
+    guid: 6becd47a82a64419d95a5100bafbeb50
+  - enabled: 1
+    path: Assets/Scenes/Underwater.unity
+    guid: 456f36dbdbda544d6b26a8af2d9a95ac
+  - enabled: 1
+    path: Assets/Scenes/Voyage.unity
+    guid: 3a035cfa412b64f51af0a85f49f7f5d6
   m_configObjects: {}
